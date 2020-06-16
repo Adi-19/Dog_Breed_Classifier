@@ -8,5 +8,6 @@ Step 1: Import Datasets
 
 Step 2: Detect Humans
 
-
 Step 3: Detect Dogs
+
+Step 4: Create a CNN to Classify Dog Breeds (from Scratch)
