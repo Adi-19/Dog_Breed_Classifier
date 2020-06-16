@@ -11,3 +11,10 @@ Step 2: Detect Humans
 Step 3: Detect Dogs
 
 Step 4: Create a CNN to Classify Dog Breeds (from Scratch)
+
+Step 5: Create a CNN to Classify Dog Breeds (using Transfer Learning)
+
+Step 6: Write your Algorithm
+
+Step 7: Test Your Algorithm
+
