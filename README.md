@@ -1,4 +1,7 @@
 # Dog_Breed_Classifier
+
+# Overview
+Built a pipeline involving Convolutional Neural Networks (CNN) that can be used to process real-world, user-supplied images. Given an image of a dog, the algorithm will identify an estimate of its breed. If supplied with an image of a human, the code will identify the resembling dog breed.
 First we are using Convolutional Neural Networks for predication of dog.
 
 
